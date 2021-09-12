@@ -1,0 +1,23 @@
+body {
+    background-image: url("space-pattern-vector-9063480.jpg");
+    color: white;
+}
+
+button {
+    background-color: rgb(0, 92, 128);
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
+    font-size: 20px;
+    padding: 7px;
+}
+
+#cam {
+    background-color: black;
+    border-style: dashed;
+    border-width: 4px;
+    border-color: grey;
+    width: 500px;
+    height: 20px;
+}
+
